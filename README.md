@@ -7,8 +7,4 @@ Among all categories of health-related factors only those critical factors were 
 
 The data was collected from WHO and United Nations website with the help of Deeksha Russell and Duan Wang. 
 
-# Members on this Project
-1. Cyril Avevor
-2. Cyril Yamoah
-3. David Gebe
-3. David Afo-Kangah
+
